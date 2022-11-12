@@ -3,7 +3,7 @@ Welcome to my portolio created using React.js. This application showcases my wor
 
 ## Deployed Application
 
-Link to the deployed application: https://ncougs.github.io/React-Portfolio/
+Link to the deployed application: https://farrelldianni.github.io/fdd-react-portfolio/
 
 ## Questions
 
