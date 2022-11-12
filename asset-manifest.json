@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fdd-react-portfolio/static/css/main.792356a7.css",
+    "main.js": "/fdd-react-portfolio/static/js/main.23693f6d.js",
+    "static/media/farrell-dianni.JPG": "/fdd-react-portfolio/static/media/farrell-dianni.0bc210df9842b154bb5c.JPG",
+    "static/media/bootstrap-icons.woff?": "/fdd-react-portfolio/static/media/bootstrap-icons.1ac3894cba781f40481b.woff",
+    "static/media/bootstrap-icons.woff2?": "/fdd-react-portfolio/static/media/bootstrap-icons.e3e8f0df3216e6c72c48.woff2",
+    "index.html": "/fdd-react-portfolio/index.html",
+    "main.792356a7.css.map": "/fdd-react-portfolio/static/css/main.792356a7.css.map",
+    "main.23693f6d.js.map": "/fdd-react-portfolio/static/js/main.23693f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.792356a7.css",
+    "static/js/main.23693f6d.js"
+  ]
+}
